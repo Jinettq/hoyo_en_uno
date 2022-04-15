@@ -1,0 +1,29 @@
+#pagina {
+    background-image: url("campo.jpg");
+    background-position: center;
+    background-size:cover;
+  }
+
+  #lienzo{
+    margin-top: 200px;
+  
+    background-size:cover;
+    border-style:ridge;
+    text-align:center;
+  }
+
+ 
+  #ancho, #alto{
+  font-size: 40px;
+  font-family: Century Gothic;
+  font-weight: 600;
+  }
+#controles{
+  width: 900px;
+}
+  
+#mensaje{
+  color: black;
+  font-size: 100px;
+  
+}
